@@ -1,0 +1,12 @@
+{
+  "name": "durian-landing-page",
+  "version": "1.0.0",
+  "description": "Premium Durian Landing Page",
+  "scripts": {
+    "dev": "serve .",
+    "start": "serve ."
+  },
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
